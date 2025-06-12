@@ -1,0 +1,125 @@
+{
+    "prefix": "&",
+    "status": "dnd",
+    "langue": "fr",
+    "time": 40000,
+    "platform": "desktop",
+    "desc": null,
+    "notif": { "status": true, "servs": true },
+
+    "twitch": "https://twitch.tv/senju_cc",
+
+    "newuser": false,
+    
+    "nitrosniper": false,
+    "nitrourl": null,
+
+    "antigroup": {
+        "noadd": [],
+        "noleave": [],
+        "whitelist": [],
+        "status": false,
+        "silent": false,
+        "textes": null  
+    },
+    
+    "leave" : {
+        "groups" : [],
+        "servs" : []
+    },
+
+    "voice": {
+        "connect": null,
+        "mute": true,
+        "deaf": false,
+        "webcam": false,
+        "stream": false,
+        "antijoin": [],
+        "whitelist": []
+    },
+
+    "configrpc": {
+        "status": true,
+        "name": "⚡",
+        "type": 5,
+        "details": "Stealy",
+        "platform": "desktop",
+        "application_id": "1339555215782707282",
+        "assets": {
+            "large_image": "mp:external/77_4czkhFeGsUq1JY0nnFNtuZO5CH6qfPaKHpb0sYhY/https/i.imgur.com/0LxRndR.png?width=473&height=473"
+        },
+        "buttons": [ "⚡・Stealy" ],
+        "metadata": {
+            "button_urls": [ "https://discord.gg/F7S9CwSK7p" ]
+        }
+    },
+
+    "dm" : {
+        "wl" : []
+    },
+
+    "setgame": {
+        "status": false,
+        "name": "ㅤ",
+        "platform": "ps5",
+        "type": 0
+    },
+
+    "spotify": {
+        "status": false,
+        "name": "Spotify",
+        "type": 2,
+        "flags": 48,
+        "party": { "id": "spotify:ID" },
+        "sync_id": "1J03Vp93ybKIxfzYI4YJtL",
+        "metadata": { "context_uri": null, "artist_ids": [], "album_id": "2M2Ae2SvZe3fmzUtlVOV5Z" },
+        "assets": {
+            "large_image": "mp:external/77_4czkhFeGsUq1JY0nnFNtuZO5CH6qfPaKHpb0sYhY/https/i.imgur.com/0LxRndR.png?width=473&height=473"
+        },
+        "secrets": {
+            "join": "44d736dd2cac2417dd86bb0a26c1f11dd8b12754",
+            "spectate": "a099af4e7afcd0264b302f052ad658f7f725e742",
+            "match": "473638f97aa6997bbc40221cb0c0bb70fd3e25fd"
+        }
+    },
+
+    "custom": {
+        "status": true,
+        "state": "/stealy",
+        "emoji": null
+    },
+
+    "autoreact": {
+        "emoji": null,
+        "channel": null
+    },
+    
+    "remind": [],
+    "rainbowrole": [],
+
+    "snipecount": 0,
+    "messagecount": 0,
+    "deletecount": 0,
+    "snipeurl":[],
+    "lockurl": [],
+
+    "guildwb": null,
+    "ghostpingwb": null,
+    "mpdeletewb": null,
+    "mpupdatewb": null,
+    "nitrowb": null,
+    "logslockurlwb": null,
+    "logsnpurlwb": null,
+
+    "multion": false,
+    "multirpc": [],
+    "multistatus": [],
+    "multipronoms" : [],
+    "multitime": 12,
+
+    "mfa": { "type": null, "key": null },
+
+    "paypal" : "",
+    "ltc": ""
+
+}
